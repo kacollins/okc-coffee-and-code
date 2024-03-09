@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 title: Coffee and Code
 description: A homepage for Coffee and Codes events and resources for the community.
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
