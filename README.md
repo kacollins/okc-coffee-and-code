@@ -51,3 +51,19 @@ Does this sound like something you'd like to do? Please join the group and sugge
 Thanks for helping make Coffee and Code a great place to meet other developers and learn new things! 
 We look forward to meeting you and hearing about your ideas for events.
 </p>
+
+
+### Meetup Groups in Oklahoma City and Surrounding Areas:
+
+<p>
+Need more tech in your life? Check out these other Meetup groups in the area.
+New groups are forming all the time, so if you don't see what you're looking for,
+consider starting your own group. We are always happy to help new organizers get started.
+New to coding? Check out <a href="https://www.meetup.com/OKC-Coding-Bootcamp/">OKC Coding Bootcamp</a>!
+</p>
+
+- [OKC.js](https://www.meetup.com/okc-js/)
+- [OKC Ruby](https://www.meetup.com/okcrb/)
+- [OKC SQL Server User Group](https://www.meetup.com/OKCSQL/)
+- [OKC WordPress Users Group](https://www.meetup.com/okcwordpress/)
+- [OKC CocoaHeads](https://www.meetup.com/OKC-CocoaHeads/)
