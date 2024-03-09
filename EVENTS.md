@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![alt text](https://secure.meetupstatic.com/photos/event/a/5/8/f/600_519402383.webp?w=384 "")>
+![alt text](https://secure.meetupstatic.com/photos/event/a/5/8/f/600_519402383.webp?w=384 "this is alt text")>
 
 <br>
 Details: <br>
