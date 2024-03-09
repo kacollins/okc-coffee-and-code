@@ -1,2 +1,1 @@
-# test
-# test events page
+# Coffee and Code Events
