@@ -1,6 +1,10 @@
 # Coffee and Code Events
 
 ## Norman Coffee and Code: Meet and Greet @ Equity Brewing Company
+<br>
+<br>
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")>
 
 <br>
 Details: <br>
