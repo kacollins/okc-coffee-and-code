@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")>
+![alt text](https://secure.meetupstatic.com/photos/event/a/5/8/f/600_519402383.webp?w=384 "")>
 
 <br>
 Details: <br>
