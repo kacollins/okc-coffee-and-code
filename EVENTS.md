@@ -1,10 +1,15 @@
 # Coffee and Code Events
+<br>
+<br>
+
+## <a href="https://kacollins.github.io/okc-coffee-and-code/">HOME</a> | <a href="https://kacollins.github.io/okc-coffee-and-code/EVENTS">EVENTS</a>
+
 
 ## Norman Coffee and Code: Meet and Greet @ Equity Brewing Company
 <br>
 <br>
 
-![alt text](https://secure.meetupstatic.com/photos/event/a/5/8/f/600_519402383.webp?w=384 "")>
+<img src="https://secure.meetupstatic.com/photos/event/a/5/8/f/600_519402383.webp?w=384">
 
 <br>
 Details: <br>
@@ -16,4 +21,6 @@ We'll be at <a href="https://www.equitybrewingco.com/">Equity Brewing Co.</a> in
 No need to bring your laptop this time! We'll just be meeting each other and chatting about coding.
 <br>
 <br>
+
+
 
