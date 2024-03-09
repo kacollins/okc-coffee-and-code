@@ -1,8 +1,8 @@
 # Coffee and Code Events
 <br>
 <br>
-| <a href="">HOME</a>        | <a href="">EVENTS</a>        |
-| ------------- |:-------------:|
+| <a href="">HOME</a>|<a href="">EVENTS</a>|
+| ------------------ |:-------------------:|
 
 ## Norman Coffee and Code: Meet and Greet @ Equity Brewing Company
 <br>
